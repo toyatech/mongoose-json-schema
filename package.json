@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-json-schema",
+  "version": "0.0.0",
+  "description": "Mongoose Schema implementation from JSON Schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:noisypebble/mongoose-json-schema.git"
+  },
+  "keywords": [
+    "Mongoose",
+    "Schema",
+    "JSON",
+    "Schema"
+  ],
+  "author": "noisypebble <noisypebble@toyatech.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noisypebble/mongoose-json-schema/issues"
+  },
+  "homepage": "https://github.com/noisypebble/mongoose-json-schema"
+}
