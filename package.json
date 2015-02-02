@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:noisypebble/mongoose-json-schema.git"
+    "url": "git@github.com:toyatech/mongoose-json-schema.git"
   },
   "keywords": [
     "Mongoose",
@@ -19,7 +19,7 @@
   "author": "noisypebble <noisypebble@toyatech.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/noisypebble/mongoose-json-schema/issues"
+    "url": "https://github.com/toyatech/mongoose-json-schema/issues"
   },
-  "homepage": "https://github.com/noisypebble/mongoose-json-schema"
+  "homepage": "https://github.com/toyatech/mongoose-json-schema"
 }
